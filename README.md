@@ -1,2 +1,20 @@
-# Group8_ArewaDSCapstoneProject
-Group 8 Capstone Project Repository for Deep Learning with PyTorch Cohort 2
+
+# Group 8 ArewaDS Capstone Project
+------------------------------------------------------------------------------------ 
+## ArewaDS Deep Learning with PyTorch Cohort 2.0
+------------------------------------------------------------------------------------
+
+1. Team Members: Abubakar Abubakar Al-amin, Bernard Adjei Buckman, Halimat Musa, Kaloma Usman Majikumna 
+
+2. Capstone Mentor: Engr. Bala Abduljalil
+
+3. Project title: 
+
+4. General Information: 
+
+5. Dataset: 
+
+6. Deliverables: 
+
+
+
