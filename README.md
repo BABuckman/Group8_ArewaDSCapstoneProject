@@ -8,7 +8,7 @@
 
 2. Capstone Mentor: Engr. Bala Abduljalil
 
-3. Project title: 
+3. Project title: Improving Binary Classification of Tomato Leaf Health in Northern Nigeria Using Transfer Learning on TomatoEbola Dataset. 
 
 4. General Information: 
 
