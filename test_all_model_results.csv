@@ -1,0 +1,17 @@
+Model,Dataset,Best Val Accuracy (%)
+vit_b_16,Dikumari,72.72727272727273
+vit_b_16,Kasaisa,92.3076923076923
+vit_b_16,Kukareta,81.81818181818181
+vit_b_16,VillagePlant,68.75
+resnet18,Dikumari,72.72727272727273
+resnet18,Kasaisa,69.23076923076923
+resnet18,Kukareta,90.9090909090909
+resnet18,VillagePlant,87.5
+mobilenet_v3,Dikumari,54.54545454545455
+mobilenet_v3,Kasaisa,92.3076923076923
+mobilenet_v3,Kukareta,72.72727272727273
+mobilenet_v3,VillagePlant,71.875
+efficientnet_b0,Dikumari,81.81818181818181
+efficientnet_b0,Kasaisa,92.3076923076923
+efficientnet_b0,Kukareta,90.9090909090909
+efficientnet_b0,VillagePlant,81.25
