@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This capstone project, developed under the **Arewa Data Science Academy - Deep Learning Fellowship Cohort 2**, aims to improve binary classification (Healthy vs. Infected) of tomato leaf health using **transfer learning techniques**. The work builds on the recent publication: ["Early detection of tomato leaf diseases using transformers and transfer learning" by Shehu et al. (2025)](https://www.sciencedirect.com/science/article/pii/S1161030125001212), and seeks to overcome its limitations through deeper experimentation, dataset enhancements, and practical deployment [deployment](https://huggingface.co/spaces/alamin3141/AREWADS_CAPSTONE_PROJECT-GROUP8)
+This capstone project, developed under the **Arewa Data Science Academy - Deep Learning Fellowship Cohort 2**, aims to improve binary classification (Healthy vs. Infected) of tomato leaf health using **transfer learning techniques**. The work builds on the recent publication: ["Early detection of tomato leaf diseases using transformers and transfer learning" by Shehu et al. (2025)](https://www.sciencedirect.com/science/article/pii/S1161030125001212), and seeks to overcome its limitations through deeper experimentation, dataset enhancements, and practical [deployment](https://huggingface.co/spaces/alamin3141/AREWADS_CAPSTONE_PROJECT-GROUP8)
 .
 
 ## Objective
