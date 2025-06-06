@@ -145,12 +145,12 @@ Special thanks to **Arewa Data Science Academy**, our mentor, and all team membe
 1. Clone the GitHub repo (if available)
 2. Load the notebook `Main.ipynb`
 3. Run all cells to retrain or test models
-4. For deployment: run `App.py` to launch Gradio interface
+4. For deployment: run `App.py` to launch Gradio interface 
 
 > The ArewaDS logo and screenshots are embedded in the notebook and Gradio interface.
 
 ---
-
+You can try the deployed model [here](https://huggingface.co/spaces/alamin3141/AREWADS_CAPSTONE_PROJECT-GROUP8)
 For questions or feedback, reach out via: [deeplearningfellowship@gmail.com](mailto:deeplearningfellowship@gmail.com)
 
 
